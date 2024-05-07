@@ -11,7 +11,7 @@ To run the application:
    - Navigate to MongoDB's bin directory and execute `mongo`.
    - Example path: `C:\Program Files\MongoDB\Server\5.0\bin`
 2. In the code's root directory, install dependencies and run the server-side code:
-   - Install dependencies: `npm install`
+   - Install dependencies: `npm install` (v.10.2.4)
    - Run the script: `node app.js`
 3. Access the application at `localhost:3000` in a web browser.
 
